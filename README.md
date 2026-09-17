@@ -20,7 +20,6 @@ Sou uma pessoa adaptável, curiosa e motivada por novos desafios. Gosto de apren
 ## 🛠️ Linguagens e ferramentas que estou desenvolvendo
 <div style="display: inline-block"><br>
   <img align="center" alt="Vini-Python" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Vini-Csharp" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 
 ## Contatos
